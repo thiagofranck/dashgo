@@ -98,9 +98,9 @@ export default function UserList() {
                 </Td>
                 <Td>
                   <Box>
-                    <Text fontWeight="bold">Andrea Franck</Text>
+                    <Text fontWeight="bold">Tamara Perrotti</Text>
                     <Text fontSize="sm" color="gray.300">
-                      andreafranck@gmail.com
+                      tamaraperrotti@gmail.com
                     </Text>
                   </Box>
                 </Td>
